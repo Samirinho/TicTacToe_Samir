@@ -21,5 +21,5 @@ Per executar el joc del tres en ratlla, segueix aquests passos:
 
 3- Executar fent la següent combincació de tecles: 
 ```
-ctrl + F6
+shift + F6
 ```
