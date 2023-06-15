@@ -10,3 +10,14 @@ joc acaba en empat.
 
 - Tenir un IDE per a poder executar el joc (Netbeans (Recomanat))
 - Disposar de Kit de desenvolupament de Java (JDK)
+
+## Començament
+
+Per executar el joc del tres en ratlla, segueix aquests passos:
+
+1- Descarrega els fitxers del codi font.
+
+2- Obra el projecte baixat en un IDE *JAVA*
+
+3- Executar fent la següent combincació de tecles ```sh ctrl + F6
+
