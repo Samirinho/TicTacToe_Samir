@@ -23,3 +23,13 @@ Per executar el joc del tres en ratlla, segueix aquests passos:
 ```
 shift + F6
 ```
+
+# Normes del joc
+
+1- El joc es juga en una graella de 3x3.
+
+2- Hi ha dos jugadors: Jugador 1 (X) i Jugador 2 (O).
+
+3- El primer jugador que aconsegueixi tenir tres dels seus símbols en una fila, columna o diagonal guanya el joc.
+
+4- Si tots els espais de la graella estan ocupats i cap jugador ha guanyat, el joc acaba en empat.
