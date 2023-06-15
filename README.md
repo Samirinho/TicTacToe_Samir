@@ -19,5 +19,7 @@ Per executar el joc del tres en ratlla, segueix aquests passos:
 
 2- Obra el projecte baixat en un IDE *JAVA*
 
-3- Executar fent la següent combincació de tecles ```sh ctrl + F6
-
+3- Executar fent la següent combincació de tecles: 
+```
+sh ctrl + F6
+```
